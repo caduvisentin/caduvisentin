@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caduvisentin
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning React.js and Laravel
+- 🌱 I’m currently learning React.js and SASS
 - 💞️ I’m looking to collaborate on web app projetcs
 - 📫 How to reach me: eduardovisentin@gmail.com
 
